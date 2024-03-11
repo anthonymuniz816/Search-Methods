@@ -1,0 +1,2 @@
+# Search Methods
+ Small example of a large problem—route-finding. Given a list of cities and their adjacencies—from city A, what cities are next to it—can a route be found. This exercise will take the form of an experimental report detailing your findings of a comparison of each of the following methods: undirected (blind) brute-force approaches  breadth-first search depth-first search ID-DFS search Heuristic Approaches best-first search A* search (5 Total Methods)
