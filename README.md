@@ -21,5 +21,8 @@ This exercise will take the form of an experimental report detailing your findin
    (5 Total Methods)
    
 
+# Video Demostration
+https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02898741-5ce8-45c9-b308-b1310040b7b3
+
 # Example Output
 ![image](https://github.com/anthonymuniz816/Search-Methods/assets/90846030/bb5a9ce0-a321-4194-a969-6b1dc032e5ae)
